@@ -9,5 +9,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Voilens/uyutnaya_usadba.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Voilens/uyutnaya_usadba/issues"
+  },
+  "homepage": "https://github.com/Voilens/uyutnaya_usadba#readme",
+  "dependencies": {
+    "phaser": "^4.2.1"
+  }
 }
